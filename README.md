@@ -60,7 +60,8 @@
 * 负责：支付平台整体开发、微信公众号支付开发 
 
 ### 个人能力 ###
-`前端` 
+
+### `前端` 
 * 精通javascript、 html、 css、 
 * 能调兼容、能简单设计UI、能基础性能调优 
 * 熟练使用通用前端框架（jquery、zepto、Bootstrap、AngularJS等）
